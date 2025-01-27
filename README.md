@@ -23,5 +23,5 @@ Before running the application, ensure the following are installed:
 
 1. **Clone or download the repository**:
    ```bash
-   git clone https://github.com/yourusername/pcap-analyzer.git
-   cd pcap-analyzer
+   git clone https://github.com/7afidhou/PcapAnalyzer.git
+   cd PcapAnalyzer
